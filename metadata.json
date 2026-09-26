@@ -1,0 +1,6 @@
+{
+  "name": "Nubank",
+  "description": "Clone fiel do aplicativo Nubank com interface em dark mode, Área Pix, NuCel, Face ID e transferências.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
